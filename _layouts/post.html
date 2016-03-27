@@ -24,12 +24,11 @@ layout: default
   </ul>
 </div>
 
-{% if post.comments %}
 <div id="disqus_thread"></div>
 <script>
   var disqus_config = function () {
-      this.page.url = {{ site.baseurl }}{{ post.url }};
-      this.page.identifier = {{ site.baseurl }}{{ post.url }};
+      this.page.url = {{ site.url }}{{ post.url }};
+      this.page.identifier = {{ site.url }}{{ post.url }};
   };
   (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
       var d = document, s = d.createElement('script');
@@ -41,4 +40,3 @@ layout: default
   })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-{% endif %}

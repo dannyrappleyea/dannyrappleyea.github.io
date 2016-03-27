@@ -9,7 +9,6 @@ title:               DigitalReplica
 tagline:             'The impact of security, privacy and technology on our daily lives'
 description:         'The impact of security, privacy and technology on our daily lives'
 url:                 https://www.digitalreplica.org
-baseurl:             https://www.digitalreplica.org
 paginate:            5
 permalink:          /:year/:month/:title/
 excerpt_separator:  <!--more-->  # you can specify your own separator, of course.
