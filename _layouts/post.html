@@ -27,13 +27,13 @@ layout: default
 <div id="disqus_thread"></div>
 <script>
   var disqus_config = function () {
-      this.page.url = {{ site.url }}{{ post.url }};
-      this.page.identifier = {{ site.url }}{{ post.url }};
+      this.page.url = '{{ site.url }}{{ post.url }}';
+      this.page.identifier = '{{ site.url }}{{ post.url }}';
   };
-  (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+  (function() {
       var d = document, s = d.createElement('script');
 
-      s.src = '//digitalreplica.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+      s.src = '//digitalreplica.disqus.com/embed.js';
 
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
