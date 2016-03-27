@@ -8,7 +8,8 @@ gems: [jekyll-paginate]
 title:               DigitalReplica
 tagline:             'The impact of security, privacy and technology on our daily lives'
 description:         'The impact of security, privacy and technology on our daily lives'
-url:                 http://www.digitalreplica.org
+url:                 https://www.digitalreplica.org
+baseurl:             https://www.digitalreplica.org
 paginate:            5
 permalink:          /:year/:month/:title/
 excerpt_separator:  <!--more-->  # you can specify your own separator, of course.
@@ -26,7 +27,7 @@ baseurl: "" # does not include hostname
 # About/contact
 author:
   name:              Danny Rappleyea
-  url:               http://www.digitalreplica.org
+  url:               https://www.digitalreplica.org
   email:             email
 
 # Custom vars

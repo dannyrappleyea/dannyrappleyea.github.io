@@ -2,6 +2,7 @@
 layout: post
 title: Pocket Internet Privacy Shield
 tags: privacy
+comments: true
 ---
 
 When I travel, the thought of using the Internet in hotels and such

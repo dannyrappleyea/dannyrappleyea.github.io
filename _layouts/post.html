@@ -24,23 +24,21 @@ layout: default
   </ul>
 </div>
 
-<div class="comments">
-  {% if post.comments %}
-  <div id="disqus_thread"></div>
-  <script>
-    var disqus_config = function () {
-        this.page.url = {{ site.baseurl }}{{ post.url }};
-        this.page.identifier = {{ site.baseurl }}{{ post.url }};
-    };
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        var d = document, s = d.createElement('script');
+{% if post.comments %}
+<div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+      this.page.url = {{ site.baseurl }}{{ post.url }};
+      this.page.identifier = {{ site.baseurl }}{{ post.url }};
+  };
+  (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+      var d = document, s = d.createElement('script');
 
-        s.src = '//digitalreplica.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+      s.src = '//digitalreplica.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-  {% endif %}
-</div>
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}
