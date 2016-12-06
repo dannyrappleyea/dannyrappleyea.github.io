@@ -83,9 +83,9 @@ The most authoritative source I've found is USPS [guidelines for addressing](htt
 
 I researched if this would be mail fraud. But the court system test is a person using the mail system to steal money/property/etc from other people. So definitely don't do that (or apparently try to mail lottery tickets)!
 
-- [https://www.justice.gov/usam/criminal-resource-manual-940-18-usc-section-1341-elements-mail-fraud]
-- [http://www.criminaldefenselawyer.com/crime-penalties/federal/Federal-mail-fraud.htm]
-- [https://www.law.cornell.edu/uscode/text/18/1302]
+- [U.S.C. Section 1341—Elements of Mail Fraud](https://www.justice.gov/usam/criminal-resource-manual-940-18-usc-section-1341-elements-mail-fraud)
+- [Laws on Federal Mail Fraud](http://www.criminaldefenselawyer.com/crime-penalties/federal/Federal-mail-fraud.htm)
+- [18 U.S. Code § 1302 - Mailing lottery tickets or related matter](https://www.law.cornell.edu/uscode/text/18/1302)
 
 
 # Credit Card
