@@ -12,7 +12,8 @@ This article offers a practical guide to opt out of this pervasive data gatherin
 <!--more-->
 
 # Goal
-This guide will show options to set up an alternate online identity, using commonly available and legitimate services. It will specifically cover setting up an alternate:
+This guide will show options to set up an alternate online identity, using commonly available and legitimate services. It will specifically cover setting up an alternate
+
 - name
 - email address
 - phone number
