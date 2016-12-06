@@ -13,12 +13,11 @@ This article offers a practical guide to opt out of this pervasive data gatherin
 
 # Goal
 This guide will show options to set up an alternate online identity, using commonly available and legitimate services. It will specifically cover setting up an alternate:
-
-* name
-* email address
-* phone number
-* credit card
-* address
+- name
+- email address
+- phone number
+- credit card
+- address
 
 The order in which these are set up will vary a bit depending on the services used. I'll note dependencies where possible.
 
@@ -43,11 +42,11 @@ Everyone knows and loves/hates gmail. But the last time I tried to set up (yet a
 
 ## Tutanota
 [Tutanota](https://tutanota.com/) is a free encrypted email service based in Germany. Their website states (slightly paraphrased)
-"The Tutanota servers are located in secure data centers in Germany. All saved data are subject to the strict German privacy protection laws. Independent of that all data is end-to-end encrypted and cannot be read by the provider or by any third party."
+"*The Tutanota servers are located in secure data centers in Germany. All saved data are subject to the strict German privacy protection laws. Independent of that all data is end-to-end encrypted and cannot be read by the provider or by any third party.*"
 
 ## ProtonMail
 [ProtonMail](https://protonmail.com/) is a free encrypted email service based in Switzerland. Their website states (slightly paraphrased)
-"ProtonMail is incorporated in Switzerland and all our servers are located in Switzerland. This means all user data is protected by strict Swiss privacy laws. All emails are secured automatically with end-to-end encryption"
+"*ProtonMail is incorporated in Switzerland and all our servers are located in Switzerland. This means all user data is protected by strict Swiss privacy laws. All emails are secured automatically with end-to-end encryption*"
 
 # Phone number
 There are quite a few options for no-contract cellular plans. I specifically looked for low cost, pre-paid plans on an "alternative" carrier. Known as MVNO or "Mobile Virtual Network Operator", these carriers rent space on the larger carriers (AT&T/Sprint/Verizon) networks in bulk, so can give better rates or different types of plans than the big carriers do. Articles on attractive providers include:
@@ -108,7 +107,7 @@ Reloadable cards may give lower fees and more personalization. But many of them 
 
 I tried the [American Express Serve card](https://www.americanexpress.com/serve/). At $1/month, it was the lowest cost option that I found. Setting it up required giving over all of my real information to make the US government happy. This sets up the "master" account that you load money into.
 
-With the master account, "subaccounts" can be set up. From the American Express website, these are "Perfect for paying allowance or the babysitter. Each one comes with its own Serve Prepaid Card". They require a name, phone number, email address and password, but no other verification. Best of all, the subaccount name is embossed on the card. Other than a small "prepaid" logo on the back, it looks like any other credit card.
+With the master account, "subaccounts" can be set up. From the American Express website, these are "*Perfect for paying allowance or the babysitter. Each one comes with its own Serve Prepaid Card*". They require a name, phone number, email address and password, but no other verification. Best of all, the subaccount name is embossed on the card. Other than a small "prepaid" logo on the back, it looks like any other credit card.
 
 The master account can then transfer money to/from subaccounts.
 
