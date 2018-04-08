@@ -3,25 +3,22 @@ layout: page
 title: About
 ---
 
+## Danny Rappleyea
+
 *The impact of security, privacy and technology on our daily lives*
 
-There are three areas where much of our lives will be decided over the next
-decade or two...that being technology and how we deal with the security and
-privacy aspects of having that technology.
+The fate of our digital lives will be decided in the coming years, how we use technology and deal with the security and privacy aspects of technology.
 
-The world is a digital place now, regardless of how any person thinks of it. We
-use it to have maps of the world, most of humanity's knowledge and a pulse of
-everything going on in the world...in our fingertips at any time. The current cost
-of that is that our lives and privacy are also online, exploited by the government,
-companies that profit from it, and hackers too.
+The world is a digital place now. We have maps of the world, store most of humanity's knowledge, and a keep a pulse of everything going on in the world. All at our fingertips at any time. The cost is that our lives and privacy are also online, exploited by the government, companies that profit from it, and hackers too.
 
-But we as individuals decide how we face digital choices. There are ways to
-balance having technology and having privacy. This blog explores those, mostly
-my own search for that balance, and hopefully to add a voice to help others.
+But we as individuals decide how we face digital choices, to balance having technology and having privacy. This blog explores my own search for that balance, and to add a voice to help others.
 
-Comments and feedback are always welcome (public or private), as long as you're
-not trying to help me optimize my SEO rankings or other crap like that.
+Comments and feedback are always welcome.
 
 Thanks for reading!
 
 Danny
+
+---
+[![LinkedIn](/assets/icons/linkedin.png)](https://www.linkedin.com/in/dannyrappleyea/)
+[![Twitter](/assets/icons/twitter.png)](https://twitter.com/Danny_Rappleyea)

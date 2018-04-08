@@ -1,6 +1,6 @@
 # DigitalReplica License
 
-All posts and assets in this website are Copyright (c) 2016 Danny Rappleyea. All rights reserved.
+All posts and assets in this website are Copyright (c) 2018 Danny Rappleyea. All rights reserved.
 
 Attributions for technology used in this blog are noted below.
 
